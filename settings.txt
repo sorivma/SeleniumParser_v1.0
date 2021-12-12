@@ -1,0 +1,2 @@
+url_list: https://www.madi.ru,https://www.pgups.ru,https://www.omgups.ru,https://www.samgups.ru
+browser: Firefox
